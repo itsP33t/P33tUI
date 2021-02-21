@@ -1,0 +1,12 @@
+C:\Users\P33tT\source\repos\P33tUI\P33tUI\bin\Debug\P33tUI.exe.config
+C:\Users\P33tT\source\repos\P33tUI\P33tUI\bin\Debug\P33tUI.exe
+C:\Users\P33tT\source\repos\P33tUI\P33tUI\bin\Debug\P33tUI.pdb
+C:\Users\P33tT\source\repos\P33tUI\P33tUI\bin\Debug\Siticone.UI.dll
+C:\Users\P33tT\source\repos\P33tUI\P33tUI\obj\Debug\P33tUI.csprojAssemblyReference.cache
+C:\Users\P33tT\source\repos\P33tUI\P33tUI\obj\Debug\P33tUI.P33tUI.resources
+C:\Users\P33tT\source\repos\P33tUI\P33tUI\obj\Debug\P33tUI.Properties.Resources.resources
+C:\Users\P33tT\source\repos\P33tUI\P33tUI\obj\Debug\P33tUI.csproj.GenerateResource.cache
+C:\Users\P33tT\source\repos\P33tUI\P33tUI\obj\Debug\P33tUI.csproj.CoreCompileInputs.cache
+C:\Users\P33tT\source\repos\P33tUI\P33tUI\obj\Debug\P33tUI.csproj.CopyComplete
+C:\Users\P33tT\source\repos\P33tUI\P33tUI\obj\Debug\P33tUI.exe
+C:\Users\P33tT\source\repos\P33tUI\P33tUI\obj\Debug\P33tUI.pdb
